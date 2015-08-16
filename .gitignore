@@ -1,0 +1,4 @@
+*.jpg
+.ensime
+.ensime_cache
+target
